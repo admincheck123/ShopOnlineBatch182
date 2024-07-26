@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED980ED-3CF5-4B78-9271-F52733B95281}|ShopService\\ShopService.csproj|c:\\users\\phuong cute\\downloads\\shoponlinebatch182\\shoponlinebatch182\\shopservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED980ED-3CF5-4B78-9271-F52733B95281}|ShopService\\ShopService.csproj|solutionrelative:shopservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2514A75D-F589-43C3-A3A6-B30AC052F316}|ShopDataAccess\\ShopDataAccess.csproj|c:\\users\\phuong cute\\downloads\\shoponlinebatch182\\shoponlinebatch182\\shopdataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2514A75D-F589-43C3-A3A6-B30AC052F316}|ShopDataAccess\\ShopDataAccess.csproj|solutionrelative:shopdataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E97B2CD-B523-4337-A880-3A10EC0CEE7D}|ShopDTO\\ShopDTO.csproj|c:\\users\\phuong cute\\downloads\\shoponlinebatch182\\shoponlinebatch182\\shopdto\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E97B2CD-B523-4337-A880-3A10EC0CEE7D}|ShopDTO\\ShopDTO.csproj|solutionrelative:shopdto\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078861F1-425C-4240-9EEB-0DA8669AC98B}|ShopOData\\ShopOData.csproj|c:\\users\\phuong cute\\downloads\\shoponlinebatch182\\shoponlinebatch182\\shopodata\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{078861F1-425C-4240-9EEB-0DA8669AC98B}|ShopOData\\ShopOData.csproj|solutionrelative:shopodata\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA98925-CB4A-4ED4-9807-084CF9D3D7E5}|ShopMVC\\ShopMVC.csproj|c:\\users\\phuong cute\\downloads\\shoponlinebatch182\\shoponlinebatch182\\shopmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA98925-CB4A-4ED4-9807-084CF9D3D7E5}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA98925-CB4A-4ED4-9807-084CF9D3D7E5}|ShopMVC\\ShopMVC.csproj|c:\\users\\phuong cute\\downloads\\shoponlinebatch182\\shoponlinebatch182\\shopmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADA98925-CB4A-4ED4-9807-084CF9D3D7E5}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA98925-CB4A-4ED4-9807-084CF9D3D7E5}|ShopMVC\\ShopMVC.csproj|c:\\users\\phuong cute\\downloads\\shoponlinebatch182\\shoponlinebatch182\\shopmvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADA98925-CB4A-4ED4-9807-084CF9D3D7E5}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA98925-CB4A-4ED4-9807-084CF9D3D7E5}|ShopMVC\\ShopMVC.csproj|c:\\users\\phuong cute\\downloads\\shoponlinebatch182\\shoponlinebatch182\\shopmvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADA98925-CB4A-4ED4-9807-084CF9D3D7E5}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED980ED-3CF5-4B78-9271-F52733B95281}|ShopService\\ShopService.csproj|c:\\users\\phuong cute\\downloads\\shoponlinebatch182\\shoponlinebatch182\\shopservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED980ED-3CF5-4B78-9271-F52733B95281}|ShopService\\ShopService.csproj|solutionrelative:shopservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA98925-CB4A-4ED4-9807-084CF9D3D7E5}|ShopMVC\\ShopMVC.csproj|c:\\users\\phuong cute\\downloads\\shoponlinebatch182\\shoponlinebatch182\\shopmvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADA98925-CB4A-4ED4-9807-084CF9D3D7E5}|ShopMVC\\ShopMVC.csproj|solutionrelative:shopmvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopMVC\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShopMVC\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopMVC\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ShopMVC\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T12:51:27.587Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopDataAccess\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "ShopDataAccess\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopDataAccess\\ProductDAO.cs",
+              "RelativeToolTip": "ShopDataAccess\\ProductDAO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:46:38.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopOData\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShopOData\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopOData\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShopOData\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:45:51.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopMVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShopMVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopMVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShopMVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:44:51.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopDTO\\Product.cs",
+              "RelativeDocumentMoniker": "ShopDTO\\Product.cs",
+              "ToolTip": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopDTO\\Product.cs",
+              "RelativeToolTip": "ShopDTO\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T13:17:01.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopService\\ProductService.cs",
+              "RelativeDocumentMoniker": "ShopService\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopService\\ProductService.cs",
+              "RelativeToolTip": "ShopService\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:54:16.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopMVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopMVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopMVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ShopMVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T13:01:05.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopMVC\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShopMVC\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopMVC\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ShopMVC\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T13:00:58.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopService\\IProductService.cs",
+              "RelativeDocumentMoniker": "ShopService\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopService\\IProductService.cs",
+              "RelativeToolTip": "ShopService\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T12:54:13.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopMVC\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ShopMVC\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Phuong Cute\\Downloads\\ShopOnlineBatch182\\ShopOnlineBatch182\\ShopMVC\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ShopMVC\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T12:48:57.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

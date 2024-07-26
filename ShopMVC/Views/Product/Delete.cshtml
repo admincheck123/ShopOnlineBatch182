@@ -1,0 +1,40 @@
+﻿@model ShopDTO.ProductDTO
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="bdlayout pb-3">
+    <div class="container  ">
+        <h3 style="color: black;
+    font-size: 18px;">
+            Bạn có chắc chắn muốn xóa Sinh Viên này không?
+        </h3>
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.ProductId)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.ProductName)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.CategoryId)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.CategoryName)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.CategoryName)
+            </dd>
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="ProductId" />
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            <a asp-action="Index" class="btn btn-primary">Trở Về</a>
+        </form>
+    </div>
+</div>

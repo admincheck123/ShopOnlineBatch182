@@ -1,0 +1,94 @@
+﻿@model IEnumerable<ShopDTO.CategoryDTO>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="bdlayout">
+    <h3 class="p-2" style="color: #ffffff;
+    font-size: 18px;
+    background-color: #99CDD8;
+border-radius: 5px 5px 0px 0px;">
+        Danh Sách Loại Hàng
+    </h3>
+    <div class="container  ">
+        <div class="row">
+            <div class="col-lg-12">
+                <p>
+                    <a asp-action="Create" class="btn btn-outline-primary">Tạo Mới</a>
+                </p>
+                <div class="">
+                    @{
+                        if (TempData["AlertMessage"] != null)
+                        {
+                                <div id="alertBox" class="alert @TempData["Type"]">
+                                    @TempData["AlertMessage"]
+                                </div>
+                        }
+                    }
+                </div>
+                <div class="form-body">
+                    @using (Html.BeginForm("Index", "Category", FormMethod.Post))
+                    {
+                        <div class="form-group">
+                            <div class="col-lg-6">
+                                @Html.TextBox("SearchString", "", null, new { @class = "form-control", @placeholder = "Mời nhập từ khóa cần tìm kiếm" })
+                            </div>
+                            <div class="col-lg-6">
+                            </div>
+                        </div>
+                    }
+                </div>
+                <table class="table">
+                    <thead style="    background-color: #ece7e7;
+    color:              #565656;">
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.CategoryId)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.CategoryName)
+                            </th>
+                            <th>Hành Động</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.CategoryId)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.CategoryName)
+                                </td>
+                                <td>
+                                    <a asp-action="Edit" asp-route-id="@item.CategoryId" class="btn btn-outline-primary">Edit</a>
+                                    <a asp-action="Details" asp-route-id="@item.CategoryId" class="btn btn-outline-success">Details</a>
+                                    <a asp-action="Delete" asp-route-id="@item.CategoryId" class="btn btn-outline-danger">Delete</a>
+                                    @* @Html.ActionLink("Edit", "Edit", new { id=item.CategoryId })
+                                @Html.ActionLink("Details", "Details", new { id=item.CategoryId })
+                                @Html.ActionLink("Delete", "Delete", new { id=item.CategoryId }) *@
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                @section Scripts {
+                    @{
+                        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+                    }
+                    <script>
+                        $(function () {
+                            $('#alertBox').removeClass('hide');
+                            $('#alertBox').delay(2000).slideUp(500);
+                        }
+
+                        )
+                    </script>
+                }
+            </div>
+        </div>
+    </div>
+</div>
